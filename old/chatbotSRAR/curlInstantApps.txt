@@ -1,0 +1,28 @@
+curl --request PUT \
+  --url http://10.157.220.195:8080/management-api/v1/settings \
+  --header 'accept: application/json' \
+  --header 'content-type: application/json' \
+  --data '{
+                "id": "default",
+                "settings": {
+                                "configProperties": {
+                                                "chatbox.urls.callback": "https://109ff53b.ngrok.io/connectors/v1/callback?state={stateValue}"
+                                },
+                                "translators": {
+                                                "google": {
+                                                                "baseUrl": "https://translation.googleapis.com/language/translate/v2",
+                                                                "type": "google"
+                                                },
+                                                "microsoft": {
+                                                                "baseUrl": "https://api.microsofttranslator.com/V2/Http.svc",
+                                                                "type": "microsoft"
+                                                }
+                                },
+                                "chatbox": {
+                                                "baseUrl": "https://nimbus.chatbox.com/omcs/1.0",
+                                                "externalOrgId": "chatbot-tenant",
+                                                "name": "chatbot-tenant",
+                                                "orgId": 49
+                                }
+                }
+}'

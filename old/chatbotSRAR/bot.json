@@ -1,0 +1,6 @@
+{
+  "name" : "ARSalesRep",
+  "description" : "Demo AR Sales Rep",
+  "type" : "USER",
+  "intentTrainer" : "Sakura"
+}

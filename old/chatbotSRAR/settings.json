@@ -1,0 +1,8 @@
+{
+  "settings" : {
+    "Multistage_Pipeline" : true,
+    "Verbose_Output" : false,
+    "Result_Size" : 10,
+    "Pipeline_Output_Size" : 100
+  }
+}
