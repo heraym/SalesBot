@@ -1,17 +1,16 @@
-Linea;Categoria;Familia;Icono
-PaaS;Application Development;Oracle Application Container Cloud Service;https://docs.oracle.com/en/cloud/paas/app-container-cloud/sp_common/shared-images/cloudgs_appcontainer.png
-PaaS;Application Development;Oracle Java Cloud Service;https://docs.oracle.com/cloud-machine/latest/jcs_gs/dcommon/img/cloudgs_java.png
-PaaS;Application Development;Oracle Mobile Cloud Service;https://docs.oracle.com/en/cloud/paas/mobile-cloud/sp_common/shared-images/cloudgs_mobile.png
-PaaS;Application Development;Oracle Visual Cloud Service;https://docs.oracle.com/en/cloud/paas/app-builder-cloud/sp_common/shared-images/cloudgs_appbuilder.png
-PaaS;Integration;Oracle Integration Cloud ;https://docs.oracle.com/en/cloud/paas/integration-cloud-service/sp_common/shared-images/cloudgs_integration.png
-PaaS;Integration;Oracle SOA Suite Cloud Service;https://docs.oracle.com/middleware/1213/dcommon/img/3-middleware.png
-PaaS;Integration;Oracle Internet of Things Cloud;https://docs.oracle.com/en/cloud/paas/iot-cloud/sp_common/shared-images/cloudgs_iot.png
-PaaS;Data Management;Oracle Database Cloud Service;https://docs.oracle.com/en/cloud/paas/database-dbaas-cloud/sp_common/shared-images/cloudgs_dbaas.png
-IaaS;Products;Oracle Cloud Infrastructure;https://docs.oracle.com/en/cloud/sp_common/shared-images/4-cloud.png
-IaaS;Products;Oracle Cloud Networking;https://community.oracle.com/community/image/15686/2.png?a=345160
-IaaS;Products;Oracle Cloud Storage;https://docs.oracle.com/en/cloud/iaas/storage-cloud/sp_common/shared-images/cloudgs_storage.png
-IaaS;Cloud at Customer;Oracle Cloud Machines;https://docs.oracle.com/cloud-machine/latest/stcomputecs/dcommon/img/cloudgs_compute.png
-PaaS;Management;;
-PaaS;Content and Experience;;
-PaaS;Business Analytics;;
-PaaS;Security;; 
+Linea;Categoria;Familia;Descripcion;Icono;Demo
+PaaS;Application Development;Java Cloud Service;Desarrollar facilmente aplicaciones Java en la nube. Servicio para aprovisionar WebLogic.;https://docs.oracle.com/cloud-machine/latest/jcs_gs/dcommon/img/cloudgs_java.png;https://www.youtube.com/embed/FLSG9XGsPtw?autoplay=1
+PaaS;Application Development;Mobile Hub;Construir, desarrollar y gestionar aplicaciones moviles en forma simple conectando aplicaciones Oracle o no-Oracle.;https://docs.oracle.com/en/cloud/paas/mobile-cloud/sp_common/shared-images/cloudgs_mobile.png;https://www.youtube.com/embed/FLSG9XGsPtw?autoplay=1
+PaaS;Application Development;Visual Builder;Creacion de Apps Web y Moviles sin Codigo;https://docs.oracle.com/en/cloud/paas/app-builder-cloud/sp_common/shared-images/cloudgs_appbuilder.png;https://www.youtube.com/embed/FLSG9XGsPtw?autoplay=1
+PaaS;Integration;Integration Cloud ;Plataforma de integracion Hibrida (cloud y on-premise). Incluye integracion (ICS), automatizacion de procesos (PCS) y visualizacion (Visual Builder);https://docs.oracle.com/en/cloud/paas/integration-cloud-service/sp_common/shared-images/cloudgs_integration.png;https://www.youtube.com/embed/FLSG9XGsPtw?autoplay=1
+PaaS;Integration;SOA Suite Cloud Service;Servicio Cloud para aprovisionar ambientes SOA en la nube;https://docs.oracle.com/middleware/1213/dcommon/img/3-middleware.png;https://www.youtube.com/embed/FLSG9XGsPtw?autoplay=1
+PaaS;Integration;Internet of Things Cloud;Plataforma de IOT;https://docs.oracle.com/en/cloud/paas/iot-cloud/sp_common/shared-images/cloudgs_iot.png;https://www.youtube.com/embed/FLSG9XGsPtw?autoplay=1
+PaaS;Data Management;Database Cloud Service;Servicio de base de datos Oracle en la nube;https://docs.oracle.com/en/cloud/paas/database-dbaas-cloud/sp_common/shared-images/cloudgs_dbaas.png;https://www.youtube.com/embed/FLSG9XGsPtw?autoplay=1
+IaaS;Products;Cloud Infrastructure;Infrastructura Cloud (Compute y otros);https://docs.oracle.com/en/cloud/sp_common/shared-images/4-cloud.png;https://www.youtube.com/embed/FLSG9XGsPtw?autoplay=1
+IaaS;Products;Cloud Networking;Gestion de Redes en la nube;https://community.oracle.com/community/image/15686/2.png?a=345160;https://www.youtube.com/embed/FLSG9XGsPtw?autoplay=1
+IaaS;Products;Cloud Storage;Storage en la nube;https://docs.oracle.com/en/cloud/iaas/storage-cloud/sp_common/shared-images/cloudgs_storage.png;https://www.youtube.com/embed/FLSG9XGsPtw?autoplay=1
+IaaS;Cloud at Customer;Oracle Cloud Machines;Servicios Cloud en el datacenter del cliente;https://docs.oracle.com/cloud-machine/latest/stcomputecs/dcommon/img/cloudgs_compute.png;https://www.youtube.com/embed/FLSG9XGsPtw?autoplay=1
+PaaS;Management;;;;https://www.youtube.com/embed/FLSG9XGsPtw?autoplay=1
+PaaS;Content and Experience;;;;https://www.youtube.com/embed/FLSG9XGsPtw?autoplay=1
+PaaS;Business Analytics;;;;https://www.youtube.com/embed/FLSG9XGsPtw?autoplay=1
+PaaS;Security;;; ;

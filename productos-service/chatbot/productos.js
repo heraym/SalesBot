@@ -15,13 +15,13 @@ fs.createReadStream("./data/Productos.csv")
     .pipe(parse({delimiter: ';', columns: true}))
     .on('data', function(csvrow) {
          //do something with csvrow
-        if (idProducto == csvrow.PartNumber) 
-           { csvData.push(csvrow); }
+        if (idProducto == csvrow.Producto) 
+           { callback(csvrow); }
     })
     .on('end',function() {
       //do something wiht csvData
       //console.log(csvData);
-	  callback(csvData);
+	  //callback(csvData);
     });
 }
 
@@ -33,7 +33,7 @@ fs.createReadStream("./data/Productos.csv")
     .on('data', function(csvrow) {
          //do something with csvrow
        if (idFamilia == csvrow.Familia)
-	      { csvData.push(csvrow); }        
+	      { csvData.push(csvrow.Producto); }        
     })
     .on('end',function() {
       //do something wiht csvData
@@ -92,6 +92,25 @@ fs.createReadStream("./data/Familias.csv")
       callback(csvData);
     });
 }
+
+Productos.prototype.demoFamilia = function (familia, callback) {
+
+var categorias=[]; 
+var csvData = [];
+fs.createReadStream("./data/Familias.csv")
+    .pipe(parse({delimiter: ';', columns: true}))
+    .on('data', function(csvrow) {
+         //do something with csvrow
+       if (familia == csvrow.Familia)
+	      { callback(csvrow.Demo);  }		  
+    })
+    .on('end',function() {
+      //do something wiht csvData
+       
+    });
+}
+
+
 Productos.prototype.lineas = function (callback) {
 
 var lineas=[]; 
