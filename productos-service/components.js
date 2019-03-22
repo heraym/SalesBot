@@ -19,6 +19,8 @@ var createComponentsServer = function(urlPath, config) {
     var app = express();
     app.use(bodyParser.urlencoded({extended: true}));
     app.use(bodyParser.json());
+    
+	
 
 		var logger = (config ? config.logger : null);
 	  if (!logger) {
@@ -87,6 +89,8 @@ var createComponentsServer = function(urlPath, config) {
   		name: 'Metadata',
   		endpoint: urlPath
   	};
+	
+	app.use("/static", express.static(__dirname + '/static'));
 
     return app;
 };

@@ -68,7 +68,7 @@ fs.createReadStream("./data/Familias.csv")
        if (idLinea == csvrow.Linea)
 	      { if (categorias.indexOf(csvrow.Categoria) == -1) 
 			  { categorias.push(csvrow.Categoria); 
-		        csvData.push({ Categoria: csvrow.Categoria });  }
+		        csvData.push({ Categoria: csvrow.Categoria, Descripcion: csvrow.CategoriaDescripcion });  }
           }		  
     })
     .on('end',function() {
