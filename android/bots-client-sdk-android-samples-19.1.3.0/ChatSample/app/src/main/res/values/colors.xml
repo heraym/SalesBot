@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Bots_accent">#0d7ed2</color>
+    <color name="Bots_accentDark">#0d8fff</color>
+    <color name="Bots_accentLight">@color/primary_dark_material_light</color>
+
+    <color name="Bots_backgroundInput">#ffffff</color>
+
+    <color name="Bots_btnSendHollow">#c0c0c0</color>
+    <color name="Bots_btnSendHollowBorder">#303030</color>
+
+    <color name="Bots_header">#989898</color>
+
+    <color name="Bots_messageDate">@color/Bots_header</color>
+    <color name="Bots_messageShadow">#7f999999</color>
+
+    <color name="Bots_remoteMessageAuthor">@color/Bots_header</color>
+    <color name="Bots_remoteMessageBackground">#ffffff</color>
+    <color name="Bots_remoteMessageBorder">#d9d9d9</color>
+    <color name="Bots_remoteMessageText">#000000</color>
+
+    <color name="Bots_userMessageBackground">@color/Bots_accent</color>
+    <color name="Bots_userMessageBorder">@color/Bots_accentDark</color>
+    <color name="Bots_userMessageFailedBackground">@color/Bots_accentLight</color>
+    <color name="Bots_userMessageText">#ffffff</color>
+
+</resources>

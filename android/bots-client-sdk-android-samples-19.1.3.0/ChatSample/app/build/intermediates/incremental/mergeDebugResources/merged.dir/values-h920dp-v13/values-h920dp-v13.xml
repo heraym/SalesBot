@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Bots_webviewHeightCompact">460dp</dimen>
+    <dimen name="Bots_webviewHeightTall">670dp</dimen>
+    <dimen name="Bots_webviewTabletHeightFull">810dp</dimen>
+</resources>

@@ -1,0 +1,1 @@
+include ':app', ':bots-client-sdk-android-core', ':bots-client-sdk-android-ui'

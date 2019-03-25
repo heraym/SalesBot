@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Bots_fileNameMaxWidth">261dp</dimen>
+    <dimen name="Bots_imageDisplayHeight">182dp</dimen>
+    <dimen name="Bots_imageDisplayWidth">348dp</dimen>
+    <dimen name="Bots_messageMaxSize">324dp</dimen>
+    <string name="Bots_widthBreakpoint">large</string>
+</resources>
