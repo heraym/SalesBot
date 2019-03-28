@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:bots-client-sdk-android-ui">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/bots-client-sdk-android-ui.aar/be0212f325bd27bb22c53d6a32eeab8e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/bots-client-sdk-android-ui.aar/be0212f325bd27bb22c53d6a32eeab8e/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

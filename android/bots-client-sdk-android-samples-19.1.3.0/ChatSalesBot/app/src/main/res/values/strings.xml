@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sales Bot Oracle AR</string>
+
+    <string name="prompt_App_ID">Enter the App ID</string>
+    <string name="action_continue">Continuar</string>
+    <string name="launchactivity_text">Preguntale todo lo que quieres saber sobre Oracle Cloud y nunca te atreviste a preguntar</string>
+    <string name="chat_with_bot">Chat con el BOT</string>
+    <string name="title_activity_settings">Configuracion</string>
+    <string name="menu_settings">Configuracion</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancelar</string>
+    <string name="titulo">Sales Bot</string>
+    <string name="cloud">CLOUD</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="mainactivity_text">This sample app shows how to use the Oracle Intelligent BOT SDK to embed chat function in a mobile app.</string>
+    <string name="mobileapp">Your mobile app would go here.</string>
+</resources>
+

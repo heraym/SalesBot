@@ -1,0 +1,514 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [:bots-client-sdk-android-core] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-core.aar\1f1f2090271a166f4e46650e5d1a34cc\AndroidManifest.xml:2:1-32:12
+MERGED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:2:1-54:12
+MERGED from [com.google.firebase:firebase-core:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-core-12.0.1.aar\41e73b72737c784436c59356b29a9150\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\4b92129a48c50c6d00fdd7bda9b5ad28\AndroidManifest.xml:17:1-37:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f517ff380ee34564dc971141fe51ba24\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\f45670a9fe4b122e31777264c6a3dea5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\7c7d1a4bdd6c997a423c43b7650512f8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\95d07d8dcc5c0d81f049abf94a6c10f7\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\b91e12f5dfda8c3cb9b2231b8afe156f\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\abf96ba614bc315c8c1314756537604e\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\9c92bfc3a8cb06e3dbc1e53d6b1db116\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\083fc6e6016be5ff16b31149ca8d12e6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c77a43e6f6f234e080b920911a708e91\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\0eaeac606af04f60a52846808fc68448\AndroidManifest.xml:17:1-22:12
+MERGED from [com.davemorrissey.labs:subsampling-scale-image-view:3.10.0] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\subsampling-scale-image-view-3.10.0.aar\cc35b5281c9d9eafa61c9c731060f512\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\29f0c070f463b6a66b2682207ba9cf88\AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\71933e9e58a2e7f799687ad042c75af2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\35a91164216073b32a4ce5e8ded724c4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f566ff694db6560984087af0537fc5c8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8621c8d47f9c5be0167e675b2adbc6d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2b03816fc3fa4e62a1e2032de1d7d395\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\caad89a25c24e4819d2a6c5b121cc109\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\27ef143058945bda09ad74f6e547d0c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\64f3afd9eed21af684c97b8f9a8b273e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-12.0.1.aar\4386980169cc03cec333780fb70b076e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\13fd411f0d7a589912ba81de12da1105\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-12.0.1.aar\40d7aa19c1217bbeef13620ee1cbe1bc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-12.0.1.aar\946a14c943450816e87bd6a2933995ba\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\ee6bd549ff193f205f72880dff31736c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\9abe70ed119dda0f03809be352f8bc6f\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7c9c29154f4f6f48745c77c0893ebcd8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\1df2305368e4e937eba060f97ade4685\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\7a3bf58ebac7ada1af85a1f85690e698\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-12.0.1.aar\68ea30eab79b44c888a9f1888fefb0a2\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0032afb1b20f350121d382c935e6814d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1d14449d4fb682eb9c50d423cf5b0386\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\51d06f87bbc699afa17feccba1079c5c\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:3:5-50
+		INJECTED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml
+		INJECTED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml
+		ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml
+		ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:4:5-81
+MERGED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:14:5-81
+MERGED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:4:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:15:5-79
+MERGED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:7:5-31:19
+MERGED from [:bots-client-sdk-android-core] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-core.aar\1f1f2090271a166f4e46650e5d1a34cc\AndroidManifest.xml:14:5-30:19
+MERGED from [:bots-client-sdk-android-core] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-core.aar\1f1f2090271a166f4e46650e5d1a34cc\AndroidManifest.xml:14:5-30:19
+MERGED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:24:5-52:19
+MERGED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:24:5-52:19
+MERGED from [com.google.firebase:firebase-core:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-core-12.0.1.aar\41e73b72737c784436c59356b29a9150\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-core-12.0.1.aar\41e73b72737c784436c59356b29a9150\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\4b92129a48c50c6d00fdd7bda9b5ad28\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\4b92129a48c50c6d00fdd7bda9b5ad28\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\7c7d1a4bdd6c997a423c43b7650512f8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\7c7d1a4bdd6c997a423c43b7650512f8\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\95d07d8dcc5c0d81f049abf94a6c10f7\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\95d07d8dcc5c0d81f049abf94a6c10f7\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\b91e12f5dfda8c3cb9b2231b8afe156f\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\b91e12f5dfda8c3cb9b2231b8afe156f\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\abf96ba614bc315c8c1314756537604e\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\abf96ba614bc315c8c1314756537604e\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\9c92bfc3a8cb06e3dbc1e53d6b1db116\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\9c92bfc3a8cb06e3dbc1e53d6b1db116\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\083fc6e6016be5ff16b31149ca8d12e6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\083fc6e6016be5ff16b31149ca8d12e6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\29f0c070f463b6a66b2682207ba9cf88\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\29f0c070f463b6a66b2682207ba9cf88\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\71933e9e58a2e7f799687ad042c75af2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\71933e9e58a2e7f799687ad042c75af2\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-12.0.1.aar\4386980169cc03cec333780fb70b076e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-12.0.1.aar\4386980169cc03cec333780fb70b076e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\13fd411f0d7a589912ba81de12da1105\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\13fd411f0d7a589912ba81de12da1105\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-12.0.1.aar\40d7aa19c1217bbeef13620ee1cbe1bc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-12.0.1.aar\40d7aa19c1217bbeef13620ee1cbe1bc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-12.0.1.aar\946a14c943450816e87bd6a2933995ba\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-12.0.1.aar\946a14c943450816e87bd6a2933995ba\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\ee6bd549ff193f205f72880dff31736c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\ee6bd549ff193f205f72880dff31736c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\9abe70ed119dda0f03809be352f8bc6f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\9abe70ed119dda0f03809be352f8bc6f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\1df2305368e4e937eba060f97ade4685\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\1df2305368e4e937eba060f97ade4685\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\7a3bf58ebac7ada1af85a1f85690e698\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\7a3bf58ebac7ada1af85a1f85690e698\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-12.0.1.aar\68ea30eab79b44c888a9f1888fefb0a2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-12.0.1.aar\68ea30eab79b44c888a9f1888fefb0a2\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:10:9-58
+	android:allowBackup
+		ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:12:9-40
+	android:name
+		ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:8:9-35
+activity#oracle.cloud.mobile.bots.chatsample.LaunchActivity
+ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:13:9-21:20
+	android:screenOrientation
+		ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:15:13-49
+	android:name
+		ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:14:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:19:27-74
+activity#oracle.cloud.mobile.bots.chatsample.MainActivity
+ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:22:9-50
+	android:name
+		ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:22:19-47
+activity#oracle.cloud.mobile.bots.chatsample.SettingsActivity
+ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:23:9-30:20
+	android:parentActivityName
+		ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:26:13-55
+	android:label
+		ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:25:13-60
+	android:name
+		ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:24:13-45
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:27:13-29:49
+	android:value
+		ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:29:17-46
+	android:name
+		ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml:28:17-63
+uses-sdk
+INJECTED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml
+INJECTED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml
+MERGED from [:bots-client-sdk-android-core] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-core.aar\1f1f2090271a166f4e46650e5d1a34cc\AndroidManifest.xml:7:5-9:41
+MERGED from [:bots-client-sdk-android-core] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-core.aar\1f1f2090271a166f4e46650e5d1a34cc\AndroidManifest.xml:7:5-9:41
+MERGED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:7:5-9:41
+MERGED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-core:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-core-12.0.1.aar\41e73b72737c784436c59356b29a9150\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-core-12.0.1.aar\41e73b72737c784436c59356b29a9150\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\4b92129a48c50c6d00fdd7bda9b5ad28\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\4b92129a48c50c6d00fdd7bda9b5ad28\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f517ff380ee34564dc971141fe51ba24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f517ff380ee34564dc971141fe51ba24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\f45670a9fe4b122e31777264c6a3dea5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\f45670a9fe4b122e31777264c6a3dea5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\7c7d1a4bdd6c997a423c43b7650512f8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\7c7d1a4bdd6c997a423c43b7650512f8\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\95d07d8dcc5c0d81f049abf94a6c10f7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\95d07d8dcc5c0d81f049abf94a6c10f7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\b91e12f5dfda8c3cb9b2231b8afe156f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\b91e12f5dfda8c3cb9b2231b8afe156f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\abf96ba614bc315c8c1314756537604e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\abf96ba614bc315c8c1314756537604e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\9c92bfc3a8cb06e3dbc1e53d6b1db116\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\9c92bfc3a8cb06e3dbc1e53d6b1db116\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\083fc6e6016be5ff16b31149ca8d12e6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\083fc6e6016be5ff16b31149ca8d12e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c77a43e6f6f234e080b920911a708e91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\c77a43e6f6f234e080b920911a708e91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\0eaeac606af04f60a52846808fc68448\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\0eaeac606af04f60a52846808fc68448\AndroidManifest.xml:20:5-44
+MERGED from [com.davemorrissey.labs:subsampling-scale-image-view:3.10.0] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\subsampling-scale-image-view-3.10.0.aar\cc35b5281c9d9eafa61c9c731060f512\AndroidManifest.xml:7:5-9:41
+MERGED from [com.davemorrissey.labs:subsampling-scale-image-view:3.10.0] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\subsampling-scale-image-view-3.10.0.aar\cc35b5281c9d9eafa61c9c731060f512\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\29f0c070f463b6a66b2682207ba9cf88\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\glide-4.6.1.aar\29f0c070f463b6a66b2682207ba9cf88\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\71933e9e58a2e7f799687ad042c75af2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.6.1.aar\71933e9e58a2e7f799687ad042c75af2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\35a91164216073b32a4ce5e8ded724c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\35a91164216073b32a4ce5e8ded724c4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f566ff694db6560984087af0537fc5c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f566ff694db6560984087af0537fc5c8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8621c8d47f9c5be0167e675b2adbc6d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\8621c8d47f9c5be0167e675b2adbc6d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2b03816fc3fa4e62a1e2032de1d7d395\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2b03816fc3fa4e62a1e2032de1d7d395\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\caad89a25c24e4819d2a6c5b121cc109\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\caad89a25c24e4819d2a6c5b121cc109\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\27ef143058945bda09ad74f6e547d0c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\27ef143058945bda09ad74f6e547d0c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\64f3afd9eed21af684c97b8f9a8b273e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\64f3afd9eed21af684c97b8f9a8b273e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-12.0.1.aar\4386980169cc03cec333780fb70b076e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-12.0.1.aar\4386980169cc03cec333780fb70b076e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\13fd411f0d7a589912ba81de12da1105\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\13fd411f0d7a589912ba81de12da1105\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-12.0.1.aar\40d7aa19c1217bbeef13620ee1cbe1bc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-12.0.1.aar\40d7aa19c1217bbeef13620ee1cbe1bc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-12.0.1.aar\946a14c943450816e87bd6a2933995ba\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-12.0.1.aar\946a14c943450816e87bd6a2933995ba\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\ee6bd549ff193f205f72880dff31736c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\ee6bd549ff193f205f72880dff31736c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\9abe70ed119dda0f03809be352f8bc6f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\9abe70ed119dda0f03809be352f8bc6f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7c9c29154f4f6f48745c77c0893ebcd8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7c9c29154f4f6f48745c77c0893ebcd8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\1df2305368e4e937eba060f97ade4685\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\1df2305368e4e937eba060f97ade4685\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\7a3bf58ebac7ada1af85a1f85690e698\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\7a3bf58ebac7ada1af85a1f85690e698\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-12.0.1.aar\68ea30eab79b44c888a9f1888fefb0a2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-12.0.1.aar\68ea30eab79b44c888a9f1888fefb0a2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0032afb1b20f350121d382c935e6814d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\0032afb1b20f350121d382c935e6814d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1d14449d4fb682eb9c50d423cf5b0386\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1d14449d4fb682eb9c50d423cf5b0386\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\51d06f87bbc699afa17feccba1079c5c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\51d06f87bbc699afa17feccba1079c5c\AndroidManifest.xml:20:5-44
+INJECTED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml
+INJECTED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml
+		ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml
+		INJECTED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml
+		ADDED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml
+		INJECTED from D:\demos\FY19\SalesBot\android\bots-client-sdk-android-samples-19.1.3.0\ChatSalesBot\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:bots-client-sdk-android-core] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-core.aar\1f1f2090271a166f4e46650e5d1a34cc\AndroidManifest.xml:11:5-79
+MERGED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:11:5-79
+MERGED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\95d07d8dcc5c0d81f049abf94a6c10f7\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\95d07d8dcc5c0d81f049abf94a6c10f7\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [:bots-client-sdk-android-core] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-core.aar\1f1f2090271a166f4e46650e5d1a34cc\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [:bots-client-sdk-android-core] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-core.aar\1f1f2090271a166f4e46650e5d1a34cc\AndroidManifest.xml:12:5-67
+MERGED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:12:5-67
+MERGED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\95d07d8dcc5c0d81f049abf94a6c10f7\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\95d07d8dcc5c0d81f049abf94a6c10f7\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [:bots-client-sdk-android-core] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-core.aar\1f1f2090271a166f4e46650e5d1a34cc\AndroidManifest.xml:12:22-64
+service#oracle.cloud.mobile.core.service.BotsService
+ADDED from [:bots-client-sdk-android-core] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-core.aar\1f1f2090271a166f4e46650e5d1a34cc\AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [:bots-client-sdk-android-core] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-core.aar\1f1f2090271a166f4e46650e5d1a34cc\AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from [:bots-client-sdk-android-core] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-core.aar\1f1f2090271a166f4e46650e5d1a34cc\AndroidManifest.xml:16:13-72
+service#oracle.cloud.mobile.core.FcmInstanceIDListenerService
+ADDED from [:bots-client-sdk-android-core] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-core.aar\1f1f2090271a166f4e46650e5d1a34cc\AndroidManifest.xml:18:9-24:19
+	android:exported
+		ADDED from [:bots-client-sdk-android-core] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-core.aar\1f1f2090271a166f4e46650e5d1a34cc\AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from [:bots-client-sdk-android-core] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-core.aar\1f1f2090271a166f4e46650e5d1a34cc\AndroidManifest.xml:19:13-81
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [:bots-client-sdk-android-core] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-core.aar\1f1f2090271a166f4e46650e5d1a34cc\AndroidManifest.xml:21:13-23:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [:bots-client-sdk-android-core] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-core.aar\1f1f2090271a166f4e46650e5d1a34cc\AndroidManifest.xml:22:17-80
+	android:name
+		ADDED from [:bots-client-sdk-android-core] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-core.aar\1f1f2090271a166f4e46650e5d1a34cc\AndroidManifest.xml:22:25-77
+service#oracle.cloud.mobile.core.FcmService
+ADDED from [:bots-client-sdk-android-core] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-core.aar\1f1f2090271a166f4e46650e5d1a34cc\AndroidManifest.xml:25:9-29:19
+	android:name
+		ADDED from [:bots-client-sdk-android-core] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-core.aar\1f1f2090271a166f4e46650e5d1a34cc\AndroidManifest.xml:25:18-68
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:bots-client-sdk-android-core] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-core.aar\1f1f2090271a166f4e46650e5d1a34cc\AndroidManifest.xml:26:13-28:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:bots-client-sdk-android-core] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-core.aar\1f1f2090271a166f4e46650e5d1a34cc\AndroidManifest.xml:27:17-78
+	android:name
+		ADDED from [:bots-client-sdk-android-core] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-core.aar\1f1f2090271a166f4e46650e5d1a34cc\AndroidManifest.xml:27:25-75
+uses-permission#android.permission.VIBRATE
+ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:13:22-63
+uses-feature#android.hardware.camera
+ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:17:5-19:36
+	android:required
+		ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:19:9-33
+	android:name
+		ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:18:9-47
+uses-feature#android.hardware.location.gps
+ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:20:5-22:36
+	android:required
+		ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:22:9-33
+	android:name
+		ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:21:9-53
+activity#oracle.cloud.mobile.ui.ConversationActivity
+ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:25:9-30:49
+	android:label
+		ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:28:13-62
+	android:launchMode
+		ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:29:13-44
+	android:configChanges
+		ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:27:13-59
+	android:theme
+		ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:30:13-46
+	android:name
+		ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:26:13-71
+activity#oracle.cloud.mobile.ui.widget.ImageActivity
+ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:31:9-33:77
+	android:theme
+		ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:33:13-74
+	android:name
+		ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:32:13-71
+receiver#oracle.cloud.mobile.ui.notification.NotificationReceiver
+ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:35:9-41:20
+	android:exported
+		ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:36:13-84
+intent-filter#action:name:oracle.cloud.mobile.NOTIFICATION
+ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:38:13-40:29
+action#oracle.cloud.mobile.NOTIFICATION
+ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:39:17-75
+	android:name
+		ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:39:25-72
+provider#android.support.v4.content.FileProvider
+ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:43:9-51:20
+	android:grantUriPermissions
+		ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:47:13-47
+	android:authorities
+		ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:45:13-70
+	android:exported
+		ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:44:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:48:13-50:54
+	android:resource
+		ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:50:17-51
+	android:name
+		ADDED from [:bots-client-sdk-android-ui] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\bots-client-sdk-android-ui.aar\be0212f325bd27bb22c53d6a32eeab8e\AndroidManifest.xml:49:17-67
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\4b92129a48c50c6d00fdd7bda9b5ad28\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\4b92129a48c50c6d00fdd7bda9b5ad28\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\4b92129a48c50c6d00fdd7bda9b5ad28\AndroidManifest.xml:29:13-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\95d07d8dcc5c0d81f049abf94a6c10f7\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\95d07d8dcc5c0d81f049abf94a6c10f7\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\95d07d8dcc5c0d81f049abf94a6c10f7\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\95d07d8dcc5c0d81f049abf94a6c10f7\AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\95d07d8dcc5c0d81f049abf94a6c10f7\AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\95d07d8dcc5c0d81f049abf94a6c10f7\AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5ea6da5fd58482e87e8ecebf8bdeb6b8\AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:29:9-63
+permission#mobile.cloud.oracle.bots.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:32:22-76
+uses-permission#mobile.cloud.oracle.bots.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:mobile.cloud.oracle.bots
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:42:27-58
+category#mobile.cloud.oracle.bots
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\938fec7f4b363a2730904e7168875746\AndroidManifest.xml:51:13-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\b91e12f5dfda8c3cb9b2231b8afe156f\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\b91e12f5dfda8c3cb9b2231b8afe156f\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\b91e12f5dfda8c3cb9b2231b8afe156f\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\b91e12f5dfda8c3cb9b2231b8afe156f\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\b91e12f5dfda8c3cb9b2231b8afe156f\AndroidManifest.xml:9:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\abf96ba614bc315c8c1314756537604e\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\abf96ba614bc315c8c1314756537604e\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\abf96ba614bc315c8c1314756537604e\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\abf96ba614bc315c8c1314756537604e\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\083fc6e6016be5ff16b31149ca8d12e6\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\083fc6e6016be5ff16b31149ca8d12e6\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\haymard\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\083fc6e6016be5ff16b31149ca8d12e6\AndroidManifest.xml:24:13-58
