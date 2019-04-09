@@ -1,56 +1,68 @@
-Familia;PartNumber;Producto;PayAsYouGo;Precio;Metrica;Minimo;Servicios incluidos 
-Database Cloud Service;B88293; Database Cloud Service - Standard Edition;0,4032;0,2688;OCPU por Hora;;
-Database Cloud Service;B88290; Database Cloud Service - Enterprise Edition;0,8064;0,5376;OCPU por Hora;;
-Database Cloud Service;B88292; Database Cloud Service - Enterprise Edition High Performance;1,6634;1,1089;OCPU por Hora;;
-Database Cloud Service;B88291; Database Cloud Service - Enterprise Edition Extreme Performance;2,5202;1,6801;OCPU por Hora;;
-Database Cloud Service;B88600; Database Exadata Cloud Service - Quarter Rack - X6;95,7662;63,8441;Hosted Enviroment por Hora;;
-Database Cloud Service;B88601; Database Exadata Cloud Service - Half Rack - X6;191,5323;127,6882;Hosted Enviroment por Hora;;
-Database Cloud Service;B88602; Database Exadata Cloud Service - Full Rack - X6;383,0645;255,3763;Hosted Enviroment por Hora;;
-Database Cloud Service;B88599; Database Exadata Cloud Service - Additional OCPU's;2,5202;1,6801;OCPU por Hora;;
-Database Backup Service;B88297; Database Backup  Service - Storage Capacity;0,0363;0,0242;GB por Mes;;
-Database Backup Service;B88294; Database Backup Service - Outbound Data Transfer;0,075;0,05;GB por Mes;;
-Database Backup Service;B88296; Database Backup Service - PUT, COPY, POST or LIST Requests;0,0075;0,005;1000 Requests por Mes;;
-Database Backup Service;B88295; Database Backup Service - GET and all other Requests;0,006;0,004;10000 Requests por Mes;;
-Autonomous Transaction Processing;B90453;Autonomous Transaction Processing;2,5202;1,6801;OCPU por Hora;;
-Autonomous Transaction Processing;B90455;Autonomous Database - Exadata Storage;222;148;Terabytes Storage por mes;;
-Autonomous Data Warehouse;B89040;Autonomous Data Warehouse - Extreme Performance ;2,5202;1,6801;OCPU por Hora;;
-Autonomous Data Warehouse;B89041;Autonomous Data Warehouse - Exadata Storage;222;148;Terabytes Storage por mes;;
-NoSQL;B89737;NoSQL Database Cloud - Write;0,47;0,3133;Write Unit por mes;;
-NoSQL;B89738;NoSQL Database Cloud - Read;0,0225;0,015;Read Unit por mes;;
-Event Hub;B88309;Event Hub Cloud Service Dedicated - Compute Capacity;0,2723;0,1815;OCPU por Hora;;
-Event Hub;B87954;Event Hub Cloud Service - Partition Capacity;0,0113;0,0075;Partition por Hora;;
-Big Data;B88307;Big Data Cloud Service - Compute Edition - Compute Capacity;0,242;0,1613;OCPU por Hora;;
-Big Data;B88308;Big Data Cloud Service - Compute Edition - Storage Capacity;0,0707;0,0471;Gigabyte Storage por mes;;
-Big Data;B88306;Big Data Cloud Service - Compute Edition - High Performance Storage Capacity;0,1412;0,0941;Gigabyte Storage por mes;;
-Application Container Cloud Service;B88305; Application Container Cloud Service;0,0504;0,0336;GB de Memoria por Hora;;
-Java Cloud Service;B88288; Java Cloud Service - Standard;0,5807;0,3871;OCPU por Hora;;
-Java Cloud Service;B88287; Java Cloud Service - Enterprise;0,5807;0,3871;OCPU por Hora;;
-Java Cloud Service;B88289; Java Cloud Service - High Performance;1,4517;0,9678;OCPU por Hora;;
-Integration Cloud ;B88158; Integration Cloud - Standard;9,9;6,6;Usuario por mes;;
-Integration Cloud ;B88159; Integration Cloud - Enterprise;4,7379;3,1586;Usuario por mes;;
-SOA Suite Cloud Service;B88460; SOA Suite Cloud Service;1,4516;0,9678;OCPU por Hora;;
-Internet of Things Cloud;B88312; Internet of Things Cloud - Enterprise;3,377;2,2513;OCPU por Hora;2;
-Mobile Hub;B88362; Mobile Cloud - Enterprise;0,0021;0,0014;Requerimiento por Hora;;
-Visual Builder;B88435; Visual Cloud Service - Enterprise;1,8146;1,2097;OCPU por Hora;;
-Cloud Infrastructure;B88513;Bare Metal Standard - X7;0,0638;0,0638;OCPU por Hora;52;
-Cloud Infrastructure;B88514;Virtual Machine Standard - X7;0,0638;0,0638;OCPU por Hora;1;
-Cloud Infrastructure;B88515;Bare Metal Dense I/O - X7;0,1275;0,1275;OCPU por Hora;52;
-Cloud Infrastructure;B88516;Virtual Machine Dense I/O - X7;0,1275;0,1275;OCPU por Hora;4;
-Cloud Infrastructure;B88269;Compute Classic - Compute Capacity;0,085;0,085;OCPU por Hora;;
-Cloud Networking;B88319;100 Mbps Load Balancer;0,0213;0,0213;Load Balancer Hora;;
-Cloud Networking;B88320;400 Mbps Load Balancer;0,085;0,085;Load Balancer Hora;;
-Cloud Networking;B88321;800 Mbps Load Balancer;1,7;1,7;Load Balancer Hora;;
-Cloud Networking;B88525;DNS Service;0,85;0,85;1000000 Queries;;
-Cloud Networking;B88325;FastConnect 1 Gbps;0,2125;0,2125;Puerto por hora;;
-Cloud Networking;B88326;FastConnect 10 Gbps;1,275;1,275;Puerto por hora;;
-Cloud Storage;B88322;Block Volume;0,0425;0,0425;GB por Mes;;
-Cloud Storage;B88324;Object Storage;0,0034;0,0034;GB por Mes;;
-Cloud Storage;B88522;Archive Storage;0,0026;0,0026;GB por Mes;;
-Cloud At Customer;B87823; Public Cloud Machine X6 Control Plane;;12000;IaaS Service;1;
-Cloud At Customer;B87824; Public Cloud Machine X6 Compute;;3000;40 OCPUs;3;
-Cloud At Customer;B87825; Public Cloud Machine ZS5 Block Storage;;2900;45 TB;1;
-Cloud At Customer;B87826; Public Cloud Machine X6 Object Storage;;4200;128 TB;1;
-Cloud At Customer;B87334; Database Exadata Cloud Machine X6 - Eighth Rack;;35000;16 OCPUs, 240GB RAM, 42TB Storage por mes;;
-Cloud At Customer;B87335; Database Exadata Cloud Machine X6 - Quarter Rack;;47500;22 OCPUs, 240GB RAM, 42TB Storage por mes;;
-Cloud At Customer;B87336; Database Exadata Cloud Machine X6 - Half Rack;;95000;44 OCPUs, 240GB RAM, 42TB Storage por mes;;
-Cloud At Customer;B87337; Database Exadata Cloud Machine X6 - Full Rack;;190000;88 OCPUs, 240GB RAM, 42TB Storage por mes;;
+Familia;PartNumber;Producto;PayAsYouGo;Precio;Metrica;Minimo;Servicios incluidos ;BYOL
+Database Cloud Service;B88293; Database Cloud Service - Standard Edition;0,4032;0,2688;OCPU por Hora;;;NO
+Database Cloud Service;B88290; Database Cloud Service - Enterprise Edition;0,8064;0,5376;OCPU por Hora;;;NO
+Database Cloud Service;B88292; Database Cloud Service - Enterprise Edition High Performance;1,6634;1,1089;OCPU por Hora;;;NO
+Database Cloud Service;B88291; Database Cloud Service - Enterprise Edition Extreme Performance;2,5202;1,6801;OCPU por Hora;;;NO
+Database Cloud Service;B88600; Database Exadata Cloud Service - Quarter Rack - X6;95,7662;63,8441;Hosted Enviroment por Hora;;;NO
+Database Cloud Service;B88601; Database Exadata Cloud Service - Half Rack - X6;191,5323;127,6882;Hosted Enviroment por Hora;;;NO
+Database Cloud Service;B88602; Database Exadata Cloud Service - Full Rack - X6;383,0645;255,3763;Hosted Enviroment por Hora;;;NO
+Database Cloud Service;B88599; Database Exadata Cloud Service - Additional OCPU's;2,5202;1,6801;OCPU por Hora;;;NO
+Database Backup Service;B88297; Database Backup  Service - Storage Capacity;0,0363;0,0242;GB por Mes;;;NO
+Database Backup Service;B88294; Database Backup Service - Outbound Data Transfer;0,075;0,05;GB por Mes;;;NO
+Database Backup Service;B88296; Database Backup Service - PUT, COPY, POST or LIST Requests;0,0075;0,005;1000 Requests por Mes;;;NO
+Database Backup Service;B88295; Database Backup Service - GET and all other Requests;0,006;0,004;10000 Requests por Mes;;;NO
+Autonomous Transaction Processing;B90453;Autonomous Transaction Processing;2,5202;1,6801;OCPU por Hora;;;NO
+Autonomous Transaction Processing;B90455;Autonomous Database - Exadata Storage;222;148;Terabytes Storage por mes;;;NO
+Autonomous Data Warehouse;B89040;Autonomous Data Warehouse - Extreme Performance ;2,5202;1,6801;OCPU por Hora;;;NO
+Autonomous Data Warehouse;B89041;Autonomous Data Warehouse - Exadata Storage;222;148;Terabytes Storage por mes;;;NO
+NoSQL;B89737;NoSQL Database Cloud - Write;0,47;0,3133;Write Unit por mes;;;NO
+NoSQL;B89738;NoSQL Database Cloud - Read;0,0225;0,015;Read Unit por mes;;;NO
+Event Hub;B88309;Event Hub Cloud Service Dedicated - Compute Capacity;0,2723;0,1815;OCPU por Hora;;;NO
+Event Hub;B87954;Event Hub Cloud Service - Partition Capacity;0,0113;0,0075;Partition por Hora;;;NO
+Big Data;B88307;Big Data Cloud Service - Compute Edition - Compute Capacity;0,242;0,1613;OCPU por Hora;;;NO
+Big Data;B88308;Big Data Cloud Service - Compute Edition - Storage Capacity;0,0707;0,0471;Gigabyte Storage por mes;;;NO
+Big Data;B88306;Big Data Cloud Service - Compute Edition - High Performance Storage Capacity;0,1412;0,0941;Gigabyte Storage por mes;;;NO
+Java Cloud Service;B88288; Java Cloud Service - Standard;0,5807;0,3871;OCPU por Hora;;;NO
+Java Cloud Service;B88287; Java Cloud Service - Enterprise;0,5807;0,3871;OCPU por Hora;;;NO
+Java Cloud Service;B88289; Java Cloud Service - High Performance;1,4517;0,9678;OCPU por Hora;;;NO
+Java Cloud Service;B88844; Java Cloud Service - Standard - BYOL;0,2903;0,1935;OCPU por Hora;;;SI
+Java Cloud Service;B88399; Java Cloud Service - Enterprise - BYOL;0,2903;0,1935;OCPU por Hora;;;SI
+Java Cloud Service;B88289; Java Cloud Service - High Performance - BYOL;0,2903;0,1935;OCPU por Hora;;;SI
+Integration Cloud ;B88158; Integration Cloud - Standard;9,9;6,6;Usuario por mes;;;NO
+Integration Cloud ;B88159; Integration Cloud - Enterprise;4,7379;3,1586;Usuario por mes;;;NO
+SOA Suite Cloud Service;B88460; SOA Suite Cloud Service;1,4516;0,9678;OCPU por Hora;;;NO
+Internet of Things Cloud;B88312; Internet of Things Cloud - Enterprise;3,377;2,2513;OCPU por Hora;2;;NO
+Mobile Hub;B90304; Mobile Hub Cloud Service;0,0053;0,0035;Requerimiento por Hora;;;NO
+Digital Assistant;B90260;Digital Assistant;0,0053;0,0035;Requerimiento por Hora;;;NO
+Blockchain Platform;B88887;Blockchain Platform;0,75;0,5;500 Transacciones por Hora;;;NO
+Container Pipelines;B88896;Container Pipelines;262,5;175;Usuario por mes;;;NO
+Developer;B90203;Developer;0;0;Incluido en otros servicios PaaS;;;NO
+Visual Builder;B89646; Visual Builder;2,3185;1,5457;OCPU por Hora;;;NO
+Messaging;B88461;Messaging;0,375;0,25;1,000,000 de API Calls por mes;;;NO
+Content and Experience;B89969;Content and Experience Standard;0,15;0,1;Usuario activo por hora;;;NO
+Content and Experience;B89970;Content and Experience Enterprise;0,45;0,3;Usuario activo por hora;;;NO
+Content and Experience;B89971;Content and Experience Visitor;0,0101;0,0067;Usuario activo por hora;;;NO
+WebCenter Portal;B88298;WebCenter Portal;1,4517;0,9678;OCPU por Hora;;;NO
+WebCenter Portal;B88405;WebCenter Portal BYOL;0,2903;0,1935;OCPU por Hora;;;SI
+Cloud Infrastructure;B88513;Bare Metal Standard - X7;0,0638;0,0638;OCPU por Hora;52;;NO
+Cloud Infrastructure;B88514;Virtual Machine Standard - X7;0,0638;0,0638;OCPU por Hora;1;;NO
+Cloud Infrastructure;B88515;Bare Metal Dense I/O - X7;0,1275;0,1275;OCPU por Hora;52;;NO
+Cloud Infrastructure;B88516;Virtual Machine Dense I/O - X7;0,1275;0,1275;OCPU por Hora;4;;NO
+Cloud Infrastructure;B88269;Compute Classic - Compute Capacity;0,085;0,085;OCPU por Hora;;;NO
+Cloud Networking;B88319;100 Mbps Load Balancer;0,0213;0,0213;Load Balancer Hora;;;NO
+Cloud Networking;B88320;400 Mbps Load Balancer;0,085;0,085;Load Balancer Hora;;;NO
+Cloud Networking;B88321;800 Mbps Load Balancer;1,7;1,7;Load Balancer Hora;;;NO
+Cloud Networking;B88525;DNS Service;0,85;0,85;1000000 Queries;;;NO
+Cloud Networking;B88325;FastConnect 1 Gbps;0,2125;0,2125;Puerto por hora;;;NO
+Cloud Networking;B88326;FastConnect 10 Gbps;1,275;1,275;Puerto por hora;;;NO
+Cloud Storage;B88322;Block Volume;0,0425;0,0425;GB por Mes;;;NO
+Cloud Storage;B88324;Object Storage;0,0034;0,0034;GB por Mes;;;NO
+Cloud Storage;B88522;Archive Storage;0,0026;0,0026;GB por Mes;;;NO
+Cloud At Customer;B87823; Public Cloud Machine X6 Control Plane;;12000;IaaS Service;1;;NO
+Cloud At Customer;B87824; Public Cloud Machine X6 Compute;;3000;40 OCPUs;3;;NO
+Cloud At Customer;B87825; Public Cloud Machine ZS5 Block Storage;;2900;45 TB;1;;NO
+Cloud At Customer;B87826; Public Cloud Machine X6 Object Storage;;4200;128 TB;1;;NO
+Cloud At Customer;B87334; Database Exadata Cloud Machine X6 - Eighth Rack;;35000;16 OCPUs, 240GB RAM, 42TB Storage por mes;;;NO
+Cloud At Customer;B87335; Database Exadata Cloud Machine X6 - Quarter Rack;;47500;22 OCPUs, 240GB RAM, 42TB Storage por mes;;;NO
+Cloud At Customer;B87336; Database Exadata Cloud Machine X6 - Half Rack;;95000;44 OCPUs, 240GB RAM, 42TB Storage por mes;;;NO
+Cloud At Customer;B87337; Database Exadata Cloud Machine X6 - Full Rack;;190000;88 OCPUs, 240GB RAM, 42TB Storage por mes;;;NO
