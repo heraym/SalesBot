@@ -1,0 +1,12 @@
+## para Cozmo y Warehouse
+cd howto-service
+nohup node index.js > /dev/null 2>&1 &
+cd ..
+# para Sales Bot - Portal
+cd portal-demo
+nohup node portal.js > /dev/null 2>&1 &
+cd ..
+## para Sales Bot - Chatbot
+cd productos-service
+nohup node index.js > /dev/null 2>&1 &
+

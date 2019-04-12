@@ -1,8 +1,8 @@
 Familia;PartNumber;Producto;PayAsYouGo;Precio;Metrica;Minimo;Servicios incluidos ;BYOL
-Database Cloud Service;B88293; Database Cloud Service - Standard Edition;0,4032;0,2688;OCPU por Hora;;;NO
-Database Cloud Service;B88290; Database Cloud Service - Enterprise Edition;0,8064;0,5376;OCPU por Hora;;;NO
-Database Cloud Service;B88292; Database Cloud Service - Enterprise Edition High Performance;1,6634;1,1089;OCPU por Hora;;;NO
-Database Cloud Service;B88291; Database Cloud Service - Enterprise Edition Extreme Performance;2,5202;1,6801;OCPU por Hora;;;NO
+Database Cloud Service;B88293; DBCS - Standard Edition;0,4032;0,2688;OCPU por Hora;;;NO
+Database Cloud Service;B88290; DBCS - Enterprise Edition;0,8064;0,5376;OCPU por Hora;;;NO
+Database Cloud Service;B88292; DBCS - Enterprise Edition High Performance;1,6634;1,1089;OCPU por Hora;;;NO
+Database Cloud Service;B88291; DBCS - Enterprise Edition Extreme Performance;2,5202;1,6801;OCPU por Hora;;;NO
 Database Cloud Service;B88600; Database Exadata Cloud Service - Quarter Rack - X6;95,7662;63,8441;Hosted Enviroment por Hora;;;NO
 Database Cloud Service;B88601; Database Exadata Cloud Service - Half Rack - X6;191,5323;127,6882;Hosted Enviroment por Hora;;;NO
 Database Cloud Service;B88602; Database Exadata Cloud Service - Full Rack - X6;383,0645;255,3763;Hosted Enviroment por Hora;;;NO
@@ -44,11 +44,17 @@ Content and Experience;B89970;Content and Experience Enterprise;0,45;0,3;Usuario
 Content and Experience;B89971;Content and Experience Visitor;0,0101;0,0067;Usuario activo por hora;;;NO
 WebCenter Portal;B88298;WebCenter Portal;1,4517;0,9678;OCPU por Hora;;;NO
 WebCenter Portal;B88405;WebCenter Portal BYOL;0,2903;0,1935;OCPU por Hora;;;SI
-Cloud Infrastructure;B88513;Bare Metal Standard - X7;0,0638;0,0638;OCPU por Hora;52;;NO
-Cloud Infrastructure;B88514;Virtual Machine Standard - X7;0,0638;0,0638;OCPU por Hora;1;;NO
-Cloud Infrastructure;B88515;Bare Metal Dense I/O - X7;0,1275;0,1275;OCPU por Hora;52;;NO
-Cloud Infrastructure;B88516;Virtual Machine Dense I/O - X7;0,1275;0,1275;OCPU por Hora;4;;NO
-Cloud Infrastructure;B88269;Compute Classic - Compute Capacity;0,085;0,085;OCPU por Hora;;;NO
+Compute;B90425;VM Standard E2;0,03;0,03;OCPU por Hora;;;NO
+Compute;B88514;VM Standard;0,0638;0,0638;OCPU por Hora;;;NO
+Compute;B88513;Bare Metal Standard - X7;0,0638;0,0638;OCPU por Hora;;;NO
+Compute;B88515;Bare Metal Dense I/O - X7;0,1275;0,1275;OCPU por Hora;;;NO
+Compute;B88516;Virtual Machine Dense I/O - X7;0,1275;0,1275;OCPU por Hora;;;NO
+Compute;B88269;Compute Classic - Compute Capacity;0,085;0,085;OCPU por Hora;;;NO
+Compute;B89734;GPU Standard - V2;2,25;2,25;GPU por Hora;;;NO
+Compute;B88517;Bare Metal GPU Standard - X7;1,275;1,275;GPU por Hora;;;NO
+Compute;B88518;VM GPU Standard - X7;1,275;1,275;GPU por Hora;;;NO
+Compute;B90398;Compute HPC - X7;0,075;0,075;OCPU por Hora;;;NO
+Compute;B88318;Compute - Windows OS;0,0204;0,0204;OCPU por Hora;;;NO
 Cloud Networking;B88319;100 Mbps Load Balancer;0,0213;0,0213;Load Balancer Hora;;;NO
 Cloud Networking;B88320;400 Mbps Load Balancer;0,085;0,085;Load Balancer Hora;;;NO
 Cloud Networking;B88321;800 Mbps Load Balancer;1,7;1,7;Load Balancer Hora;;;NO
@@ -58,11 +64,17 @@ Cloud Networking;B88326;FastConnect 10 Gbps;1,275;1,275;Puerto por hora;;;NO
 Cloud Storage;B88322;Block Volume;0,0425;0,0425;GB por Mes;;;NO
 Cloud Storage;B88324;Object Storage;0,0034;0,0034;GB por Mes;;;NO
 Cloud Storage;B88522;Archive Storage;0,0026;0,0026;GB por Mes;;;NO
-Cloud At Customer;B87823; Public Cloud Machine X6 Control Plane;;12000;IaaS Service;1;;NO
-Cloud At Customer;B87824; Public Cloud Machine X6 Compute;;3000;40 OCPUs;3;;NO
-Cloud At Customer;B87825; Public Cloud Machine ZS5 Block Storage;;2900;45 TB;1;;NO
-Cloud At Customer;B87826; Public Cloud Machine X6 Object Storage;;4200;128 TB;1;;NO
-Cloud At Customer;B87334; Database Exadata Cloud Machine X6 - Eighth Rack;;35000;16 OCPUs, 240GB RAM, 42TB Storage por mes;;;NO
-Cloud At Customer;B87335; Database Exadata Cloud Machine X6 - Quarter Rack;;47500;22 OCPUs, 240GB RAM, 42TB Storage por mes;;;NO
-Cloud At Customer;B87336; Database Exadata Cloud Machine X6 - Half Rack;;95000;44 OCPUs, 240GB RAM, 42TB Storage por mes;;;NO
-Cloud At Customer;B87337; Database Exadata Cloud Machine X6 - Full Rack;;190000;88 OCPUs, 240GB RAM, 42TB Storage por mes;;;NO
+Cloud At Customer;B87823; Public Cloud Machine X6 Control Plane;12000;12000;IaaS Service;1;;NO
+Cloud At Customer;B87824; Public Cloud Machine X6 Compute;3000;3000;40 OCPUs;3;;NO
+Cloud At Customer;B87825; Public Cloud Machine ZS5 Block Storage;2900;2900;45 TB;1;;NO
+Cloud At Customer;B87826; Public Cloud Machine X6 Object Storage;4200;4200;128 TB;1;;NO
+Cloud At Customer;B87334; Database Exadata Cloud Machine X6 - Eighth Rack;35000;35000;16 OCPUs, 240GB RAM, 42TB Storage por mes;;;NO
+Cloud At Customer;B87335; Database Exadata Cloud Machine X6 - Quarter Rack;47500;47500;22 OCPUs, 240GB RAM, 42TB Storage por mes;;;NO
+Cloud At Customer;B87336; Database Exadata Cloud Machine X6 - Half Rack;95000;95000;44 OCPUs, 240GB RAM, 42TB Storage por mes;;;NO
+Cloud At Customer;B87337; Database Exadata Cloud Machine X6 - Full Rack;190000;190000;88 OCPUs, 240GB RAM, 42TB Storage por mes;;;NO
+Data Integration Platform;B89654;DIPC Standard;1;0,8065;GB por Hora;;;NO
+Data Integration Platform;B89655;DPIC Enterprise;2;1,6129;GB por Hora;;;NO
+Data Integration Platform;B89656;DIPC Governance;4;2,4193;GB por Hora;;;NO
+Data Integration Platform;B89660;DIPC Standard - BYOL;0;0,3226;GB por Hora;;;SI
+Data Integration Platform;B89661;DPIC Enterprise - BYOL;0;0,3226;GB por Hora;;;SI
+Data Integration Platform;B89662;DIPC Governance - BYOL;0;0,3226;GB por Hora;;;Si
