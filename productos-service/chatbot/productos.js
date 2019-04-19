@@ -60,20 +60,26 @@ fs.createReadStream("./data/Familias.csv")
 Productos.prototype.categoriasLinea = function (idLinea, callback) {
 
 var categorias=[]; 
-var csvData = [];
 fs.createReadStream("./data/Familias.csv")
     .pipe(parse({delimiter: ';', columns: true}))
     .on('data', function(csvrow) {
          //do something with csvrow
        if (idLinea == csvrow.Linea)
 	      { if (categorias.indexOf(csvrow.Categoria) == -1) 
-			  { categorias.push(csvrow.Categoria); 
-		        csvData.push({ Categoria: csvrow.Categoria, Descripcion: csvrow.CategoriaDescripcion });  }
+			  { categorias.push(csvrow.Categoria); }
           }		  
     })
     .on('end',function() {
       //do something wiht csvData
-      callback(csvData);
+	  var lista = "";
+	  console.log("largo:" + categorias.length);
+	  for (i = 0; i < categorias.length; i++) {
+		console.log(categorias[i]);
+		lista = lista + categorias[i];
+		if (i < (categorias.length -1)) {
+		lista = lista + ","; }
+       } 
+      callback(lista);
     });
 }
 
